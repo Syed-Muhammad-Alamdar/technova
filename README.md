@@ -35,6 +35,7 @@ TechNova/
 
 ## 🚀 Live Deployment
 
+https://tech-nova-alamdar.netlify.app/
 
 ## 📌 Sections
 
@@ -91,3 +92,7 @@ Check out my portfolio to explore my projects, skills, and other web development
 ## 📄 License
 
 This project was created for **educational and learning purposes**.
+
+## Consider giving it a star if you like ⭐
+
+## Thank you!
